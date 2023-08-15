@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=3dSkc-DIM74&ab_channel=Fazt
+
+npm init -y
+
+npm i express
+
+node index.js
+npm i nodemon -D
+
+node index.js
+
+npm install mysql2
